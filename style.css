@@ -1,10 +1,12 @@
 /* Click `index.html` to see the HTML. */
-
+@import url('https://fonts.googleapis.com/css2?family=Roboto+Slab:wght@200;400&display=swap');
+body{
+    font-family: 'Roboto Slab', serif;
+}
 p { color: red; }
 #introduction {
 	color: rgb(25, 164, 34);
 }
-
 blockquote { color: blue; }
 .highlight {
 	color: rgb(255, 77, 0);
