@@ -11,5 +11,3 @@ blockquote { color: blue; }
 .highlight {
 	color: rgb(255, 77, 0);
 }
-/* This applies to both selectors! D.R.Y. */
-blockquote,
