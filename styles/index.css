@@ -3,6 +3,13 @@
 body {
     font-family: 'Roboto Slab', serif;
 }
+h1{
+	font-size: 40px;
+}
+header{
+	background-color: antiquewhite;
+	padding: 20px;
+}
 p { color: red; }
 #introduction {
 	color: rgb(25, 164, 34);
