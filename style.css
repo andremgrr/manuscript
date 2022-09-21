@@ -1,6 +1,6 @@
 /* Click `index.html` to see the HTML. */
 @import url('https://fonts.googleapis.com/css2?family=Roboto+Slab:wght@200;400&display=swap');
-body{
+body {
     font-family: 'Roboto Slab', serif;
 }
 p { color: red; }
@@ -13,8 +13,3 @@ blockquote { color: blue; }
 }
 /* This applies to both selectors! D.R.Y. */
 blockquote,
-footer {
-	background-color: lightgray;
-}
-
-footer { background-color: lightgray; }
