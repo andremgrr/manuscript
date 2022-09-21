@@ -1,20 +1,28 @@
 /* Click `index.html` to see the HTML. */
-@import url('https://fonts.googleapis.com/css2?family=Roboto+Slab:wght@200;400&display=swap');
-body {
-    font-family: 'Roboto Slab', serif;
-}
+@import url('https://fonts.googleapis.com/css2?family=Lora:ital,wght@0,400;0,600;1,400;1,500&family=Roboto+Slab:wght@200;400&display=swap');body {
+	font-family: 'Lora', serif;}
 h1{
 	font-size: 40px;
 }
 header{
-	background-color: rgb(222, 171, 104);
+	background-color: rgb(222, 93, 216);
 	padding: 20px;
 }
-p { color: red; }
+p { color: rgb(35, 14, 118); }
 #introduction {
-	color: rgb(25, 164, 34);
+	color: rgb(233, 105, 13);
 }
 blockquote { color: blue; }
 .highlight {
 	color: rgb(255, 77, 0);
+}
+p{
+	line-height: 1.5;
+	margin-top: 24px;
+}
+main {
+	padding: 48px;
+	max-width: 50px;
+	margin-left: auto;
+	margin-right: auto;
 }
