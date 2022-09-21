@@ -1,0 +1,18 @@
+/* Click `index.html` to see the HTML. */
+
+p { color: red; }
+#introduction {
+	color: rgb(25, 164, 34);
+}
+
+blockquote { color: blue; }
+.highlight {
+	color: rgb(255, 77, 0);
+}
+/* This applies to both selectors! D.R.Y. */
+blockquote,
+footer {
+	background-color: lightgray;
+}
+
+footer { background-color: lightgray; }
